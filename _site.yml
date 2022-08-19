@@ -1,5 +1,6 @@
 name: "asdf"
 title: "My Blog"
+base_url: https://snaraya.github.io
 description: |
   My Blog
 output_dir: "docs"
